@@ -124,7 +124,7 @@
 | ------- | -------------- | ---------- |
 | couch   | equivalence    | sofa       |
 | crow    | forward        | bird       |
-| birs    | reverse        | crow       |
+| bird    | reverse        | crow       |
 | hippo   | non-entailment | hungry     |
 | hippo   | non-entailment | linguist   |
 
